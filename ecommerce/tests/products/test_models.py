@@ -28,7 +28,7 @@ class TestProductModels:
         # Arrange
 
         # Act
-        product = product_factory(name="test_product")
+        product = product_factory()
 
         # Assert
         assert product.__str__() == "test_product"
