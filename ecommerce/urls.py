@@ -8,6 +8,7 @@ from ecommerce.products import views
 router = DefaultRouter()
 router.register(r"category", viewset=views.CategoryView)
 router.register(r"brand", viewset=views.BrandView)
+router.register(r"products", viewset=views.ProductView)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
