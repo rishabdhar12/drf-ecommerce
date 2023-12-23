@@ -34,8 +34,7 @@ This project is a simple implementation of an eCommerce REST API built using Dja
     print(get_random_secret_key())
    ```
 
-5. **Database**
-    In local.py file
+5. **Database** (In local.py file)
      ```
      DATABASES = {
         'default': {
@@ -70,7 +69,7 @@ This project is a simple implementation of an eCommerce REST API built using Dja
 
 - **Docs**
 
-  - `GET /api/schema/docs/`:Swagger Docs 
+  - `GET /api/schema/docs/` : Swagger Docs 
 
   ---
 
