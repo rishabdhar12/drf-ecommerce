@@ -72,5 +72,3 @@ This project is a simple implementation of an eCommerce REST API built using Dja
   - `GET /api/schema/docs/` : Swagger Docs 
 
   ---
-
-This README should provide users with a brief overview of your project, how to set it up, and the available endpoints. You can expand on this with more detailed instructions or additional sections based on your project's complexity and requirements.
